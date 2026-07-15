@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vicky 👋
 
-<!--
-**Vignesh2308m/Vignesh2308m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Data Engineer
+- Learning Rust and Systems Programming
+- Building a high-performance PDF parser
+- Interested in AI infrastructure and distributed systems
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Rust
+- PySpark
+- Snowflake
+- Databricks
+- Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- 🚀 High-performance document in Rust
+- 📄 Document indexing and search engine
+- ⚡ Zero-copy file processing
